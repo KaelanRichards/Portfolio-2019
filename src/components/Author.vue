@@ -2,21 +2,30 @@
 	<div class="author">
 
 		<h1 v-if="showTitle" class="author__site-title">
-			{{ $static.metadata.siteName }}
+			<!-- {{ $static.metadata.siteName }} -->
+			Kaelan Richards.
+		</h1>
+		<h1 v-if="showTitle" class="author__site-title">
+			<!-- {{ $static.metadata.siteName }} -->
+			Indie Hacker.
+		</h1>
+		<h1 v-if="showTitle" class="author__site-title">
+			<!-- {{ $static.metadata.siteName }} -->
+			Founder.
 		</h1>
 
 		<p class="author__intro">
-			A simple, hackable & minimalistic starter for Gridsome that uses Netlify CMS for content.
+			Detroit-Native. Software Developer. Always striving to learn, grow, and create. 
 		</p>
 
 		<p class="author__links">
-			<a href="//twitter.com/suits_at">Follow on Twitter</a>
-			<a href="https://github.com/suits-at/netlifycms-gridsome">GitHub</a>
+			<a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/detroitcoderboi/">Follow on instagram</a>
+			<a target="_blank" rel="noopener noreferrer" href="https://github.com/KaelanRichards">GitHub</a>
 		</p>
 
 	</div>
-</template>
-
+</template> 
+ 
 <static-query>
 query {
   metadata {
@@ -27,7 +36,7 @@ query {
 
 <script>
 export default {
-	props: ['showTitle']
+	props: ['showTitle'] 
 }
 </script>
 
