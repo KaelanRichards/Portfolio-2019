@@ -19,8 +19,9 @@
 		</p>
 
 		<p class="author__links">
-			<a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/detroitcoderboi/">Follow on instagram</a>
+			<a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/detroitcoderboi/">Instagram</a>
 			<a target="_blank" rel="noopener noreferrer" href="https://github.com/KaelanRichards">GitHub</a>
+			<a target="_blank" rel="noopener noreferrer" href="https://twitter.com/kado_dev">Twitter</a>
 		</p>
 
 	</div>
