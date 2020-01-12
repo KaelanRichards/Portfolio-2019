@@ -620,9 +620,9 @@ Dream Pop, Post-Punk Revival
 
 **Kado’s Take** - Let it Happen is airy, spacey, psychedelic sounding white disco funk. It sounds like you’re listening to it from another room. The way it’s vocalized makes it sound like it’s a made-up language. I love this song!
 
-**Listen** - [Tame Impala - Let It Happen (Official Video) - YouTube](https://www.youtube.com/watch?v=pFptt7Cargc)
-
 **Honorable Mentions** - Borderline, The Less I Know The Better, Feels Like We Only Go Backwards
+
+**Listen** - [Tame Impala - Let It Happen (Official Video) - YouTube](https://www.youtube.com/watch?v=pFptt7Cargc)
 
 ---
 
