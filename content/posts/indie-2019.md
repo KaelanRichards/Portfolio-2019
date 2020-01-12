@@ -93,7 +93,7 @@ Bubblegum Bass, Glitch Pop
 
 ---
 
-# #29 King Krule - “Dum Surfer”
+# #29 King Krule - “Dum Surfer” (2017)
 
 [![King Krule - Dum Surfer - YouTube](https://img.youtube.com/vi/K5-f1Bnltu8/maxresdefault.jpg)]((https://www.youtube.com/watch?v=K5-f1Bnltu8))
 
