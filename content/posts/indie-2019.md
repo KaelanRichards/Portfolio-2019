@@ -11,7 +11,7 @@ description: "I took a look back at the 2010s and meticulously handpicked picked
 
 Alright, folks! 
 
-As we start the 2020s, it is important to reflect on and remember the 2010s. The ‘10s were a big decade for the music industry. Streaming services allowed music far more accessible than ever before and offered unprecedented data collection. 
+As we start the 2020s, it is important to reflect on and remember the 2010s. The ‘10s were a big decade for the music industry. Streaming services allowed music to be far more accessible than ever before and offered unprecedented data collection. 
 
 The genres that dominated the 2010s were Hip-Hop and Mainstream Pop. but between all the Justin Bieber and Drake hits, were songs that, to me, were the true gems, the lowkey hits. 
 
