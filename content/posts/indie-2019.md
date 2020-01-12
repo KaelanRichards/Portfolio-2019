@@ -46,6 +46,8 @@ I hope you enjoy this list :)
 
 **Listen** - [Perfume Genius - ‘Queen’ (Official Video) - YouTube](https://www.youtube.com/watch?v=Z7OSSUwPVM4)
 
+[![Perfume Genius - ‘Queen’ (Official Video) - YouTube](https://img.youtube.com/vi/Z7OSSUwPVM4/maxresdefault.jpg)](https://www.youtube.com/watch?v=Z7OSSUwPVM4)
+
 ---
 ---
 
@@ -62,6 +64,8 @@ Bubblegum Bass, Glitch Pop
 
 **Listen** - [Charli XCX & Christine and the Queens - Gone Official Video - YouTube](https://www.youtube.com/watch?v=chSZCtLrgz8)
 
+[![Charli XCX & Christine and the Queens - Gone Official Video - YouTube](https://img.youtube.com/vi/chSZCtLrgz8/maxresdefault.jpg)](https://www.youtube.com/watch?v=chSZCtLrgz8)
+
 ---
 ---
 
@@ -76,6 +80,8 @@ Bubblegum Bass, Glitch Pop
 **Kado’s Notes** -  If you listen to this at 2 am in your bed you will begin to float into the sky
 
 **Listen** - [BEACH HOUSE // Space Song - YouTube](https://www.youtube.com/watch?v=f9X1C7pTu-M)
+
+[![BEACH HOUSE // Space Song - YouTube](https://img.youtube.com/vi/f9X1C7pTu-M/maxresdefault.jpg)](https://www.youtube.com/watch?v=f9X1C7pTu-M)
 
 ---
 ---
@@ -92,6 +98,8 @@ Bubblegum Bass, Glitch Pop
 
 **Listen** - [King Krule - Dum Surfer - YouTube](https://www.youtube.com/watch?v=K5-f1Bnltu8)
 
+[![King Krule - Dum Surfer - YouTube](https://img.youtube.com/vi/K5-f1Bnltu8/maxresdefault.jpg)]((https://www.youtube.com/watch?v=K5-f1Bnltu8))
+
 ---
 ---
 
@@ -107,6 +115,8 @@ Bubblegum Bass, Glitch Pop
 
 **Listen** - [Big Thief -  Not (Official Audio) - YouTube](https://www.youtube.com/watch?v=UIcVwH47uxQ)
 
+[![Big Thief -  Not (Official Audio) - YouTube](https://img.youtube.com/vi/UIcVwH47uxQ/maxresdefault.jpg)]((https://www.youtube.com/watch?v=UIcVwH47uxQ))
+
 ---
 ---
 
@@ -121,6 +131,8 @@ Bubblegum Bass, Glitch Pop
 **Kado’s Notes** - Clairo is a newbie to the game but she’s killing it! She started off with a couple of hits on youtube but followed it up with an incredibly successful studio album. 
 
 **Listen** - [Clairo - Bags - YouTube](https://www.youtube.com/watch?v=L9HYJbe9Y18)
+
+[![Clairo - Bags - YouTube](https://img.youtube.com/vi/L9HYJbe9Y18/maxresdefault.jpg)]((https://www.youtube.com/watch?v=L9HYJbe9Y18))
 
 ---
 ---
