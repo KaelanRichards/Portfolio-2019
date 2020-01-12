@@ -6,7 +6,7 @@ tags: ['Music']
 description: "I took a look back at the 2010s and meticulously handpicked picked, my favorite, non-rap songs."
 ---
 
-# Top 30 **non-rap** **lowkey** Songs of the 2010s by Kado
+# Top 30 **non-rap**, **lowkey** Songs of the 2010s by Kado
 
 
 Alright, folks! 
@@ -140,19 +140,6 @@ Bubblegum Bass, Glitch Pop
 ---
 ---
 
-# #24 Jai Paul - “BTSU” (2011)
-
-**Genre** - passionate, male vocals, bittersweet, anthemic, melancholic, melodic, rhythmic, romantic, seasonal, energetic, lush, longing, uplifting, love
-
-**Vibe** - futuristic, male vocals, lush, rhythmic, surreal, minimalistic, anxious, dense, urban, vulgar, melodic, eclectic
-
-**Kado’s Take** - This track makes me feel a certain way, can’t quite explain it though.
-
-**Listen** - [Jai Paul - BTSTU (Edit) - YouTube](https://www.youtube.com/watch?v=UUBAFPIHETA)
-
----
----
-
 # #25 Crystal Castles - “Not In Love” (2011)
 
 **Album** - (II)
@@ -168,70 +155,47 @@ Bubblegum Bass, Glitch Pop
 ---
 ---
 
-# #17 Spoon - “Do You” (2014)
+# #24 Jai Paul - “BTSU” (2011)
 
-**Album** - They Want My Soul
+*Genre* - Alternative R&B, Indietronica, Wonky, Art Pop
 
-**Genre** - Indie Rock, Indie Pop
+*Vibe* - futuristic, male vocals, lush, rhythmic, surreal, minimalistic, anxious, dense, urban, vulgar, melodic, eclectic
 
-**Vibe Descriptors** - energetic, male vocals, melodic, melancholic, rhythmic, bittersweet, urban, quirky
+*Kado’s Take* - This track makes me feel a certain way, can’t quite explain it though.
 
-**Kado’s Take** - lyrically it is fairly simple and repetitive but SO catchy, got me dancing and blaring out the lyrics. DOOoooOO YOU Do YOUUU
-
-**Honorable Mention** - Inside out
-
-**Listen** - [SPOON - “Do You” - YouTube](https://www.youtube.com/watch?v=bZNyg6Qc_os)
+*Listen* - [Jai Paul - BTSTU (Edit) - YouTube](https://www.youtube.com/watch?v=UUBAFPIHETA)
 
 ---
 ---
 
-# #18 Deer Hunter - “Helicopter” (2010)
+# #23 Mitski - “Nobody” (2018)
 
-**Album** - Halycon Digest
+**Album** - Be The Cowboy
 
-**Genre** - Indie Rock, Neo-Psychedelia
-Dream Pop, Post-Punk Revival
+**Genre** - Alternative Dance, Indie Pop, New Wave
 
-**Vibe Descriptors** - melancholic, lonely, bittersweet, sad, psychedelic, male vocals, melodic, ethereal, depressive, atmospheric, alienation, death, longing, lush
+**Vibe** - lonely, female vocals, existential, bittersweet, melodic, rhythmic, longing, repetitive, energetic, nocturnal, sad, pessimistic, depressive
 
-**Kado’s Notes** - The singer captures weariness in his voice so well, like he has lived 150 years and is singing about years of weight he’s carried. Love the simple psychedelic instrumentals. Amazing Song!!
+**Honorable Mentions** - Townie, First Love / Late Spring, Your Best American
 
-**Honorable Mentions** - Desire Lines
+**Kado’s Take** - Mitski needed to be on this list because she I just consistent an solid. She has a lot of great songs.
 
-**Listen** - [Deerhunter - Desire Lines - YouTube](https://www.youtube.com/watch?v=1mBSOtdOjoc)
-
----
----
-# #19 Grimes  - “Oblivion” (2012)
-
-**Album** - Visions
-
-**Genre** - Synth Pop
-
-**Vibe Descriptors** -melodic, melancholic, nocturnal, ethereal, female vocals, atmospheric, dark, anxious, cold, lush, mysterious, soothing, urban, hypnotic, surreal, quirky, minimalistic, introspective, repetitive, ominous
-
-**Kado’s Take** - This song has multiple hooks, in which, all slap!! Many synth sounds can come off as cheesy but this song is masterful and timeless, IMO!
-
-**Honorable Mentions** -  REALiTi, Genesis, Flesh Without Blood, We Appreciate Power, Kill V Maim, Violence
-
-**Listen** - [Grimes - Oblivion - YouTube](https://www.youtube.com/watch?v=JtH68PJIQLE)
+**Listen** - [Mitski - Nobody (Lyrics) - YouTube](https://www.youtube.com/watch?v=AMptW7Ij7CI)
 
 ---
 ---
-# #20 Unknown Mortal Orchestra - “Multi-Love” (2011) 
 
-**Album** - Unknown Mortal Orchestra
+# #22 Bjork - “Stonemilker” (2015)
 
-**Genre** -Psychedelic Pop, Neo-Psychedelia, Psychedelic Soul
+**Album** - Vulnicura
 
-**Vibe Descriptors** - male vocals, psychedelic, rhythmic, love, energetic, melodic
+**Genre** - Art Pop, Downtempo, Chamber Pop
 
-**Kado’s Take** - This song is somewhat of a roller coaster. It takes you through fast-paced melodies then slows it down with the hook. Very original song which is why I like it so much.
+**Vibe Descriptors** - love, introspective, lush, melodic, breakup, longing, atmospheric, orchestral, sentimental, poetic, melancholic, passionate, chamber music, serious, female vocals, somber, sad
 
-**Honorable Mentions** - Hunnybee, So Good At Being in Trouble, Multi-Love, Swim and Sleep (Like a Shark),  American Guilt
+**Kado’s Take** - This is a very original song. Admittedly,  it does take a couple of songs to really get into it, but it will grow on you!
 
-**Listen** - [Unknown Mortal Orchestra -  Ffunny Ffrends (OFFICIAL) - YouTube](https://www.youtube.com/watch?v=c-36lCKovBg)
-
+**Listen** - [björk: stonemilker (360 degree virtual reality) - YouTube](https://www.youtube.com/watch?v=gQEyezu7G20)
 
 ---
 ---
@@ -253,34 +217,71 @@ Dream Pop, Post-Punk Revival
 ---
 ---
 
-# #22 Bjork - “Stonemilker” (2015)
+# #20 Unknown Mortal Orchestra - “Multi-Love” (2011) 
 
-**Album** - Vulnicura
+**Album** - Unknown Mortal Orchestra
 
-**Genre** - Art Pop, Downtempo, Chamber Pop
+**Genre** -Psychedelic Pop, Neo-Psychedelia, Psychedelic Soul
 
-**Vibe Descriptors** - love, introspective, lush, melodic, breakup, longing, atmospheric, orchestral, sentimental, poetic, melancholic, passionate, chamber music, serious, female vocals, somber, sad
+**Vibe Descriptors** - male vocals, psychedelic, rhythmic, love, energetic, melodic
 
-**Kado’s Take** - This is a very original song. Admittedly,  it does take a couple of songs to really get into it, but it will grow on you!
+**Kado’s Take** - This song is somewhat of a roller coaster. It takes you through fast-paced melodies then slows it down with the hook. Very original song which is why I like it so much.
 
-**Listen** - [björk: stonemilker (360 degree virtual reality) - YouTube](https://www.youtube.com/watch?v=gQEyezu7G20)
+**Honorable Mentions** - Hunnybee, So Good At Being in Trouble, Multi-Love, Swim and Sleep (Like a Shark),  American Guilt
+
+**Listen** - [Unknown Mortal Orchestra -  Ffunny Ffrends (OFFICIAL) - YouTube](https://www.youtube.com/watch?v=c-36lCKovBg)
 
 ---
 ---
 
-# #23 Mitski - “Nobody” (2018)
+# #19 Grimes  - “Oblivion” (2012)
 
-**Album** - Be The Cowboy
+**Album** - Visions
 
-**Genre** - Alternative Dance, Indie Pop, New Wave
+**Genre** - Synth Pop
 
-**Vibe** - onely, female vocals, existential, bittersweet, melodic, rhythmic, longing, repetitive, energetic, nocturnal, sad, pessimistic, depressive
+**Vibe Descriptors** -melodic, melancholic, nocturnal, ethereal, female vocals, atmospheric, dark, anxious, cold, lush, mysterious, soothing, urban, hypnotic, surreal, quirky, minimalistic, introspective, repetitive, ominous
 
-**Honorable Mentions** - Townie, First Love / Late Spring, Your Best American
+**Kado’s Take** - This song has multiple hooks, in which, all slap!! Many synth sounds can come off as cheesy but this song is masterful and timeless, IMO!
 
-**Kado’s Take** - Mitski needed to be on this list because she I just consistent an solid. She has a lot of great songs.
+**Honorable Mentions** -  REALiTi, Genesis, Flesh Without Blood, We Appreciate Power, Kill V Maim, Violence
 
-**Listen** - [Mitski - Nobody (Lyrics) - YouTube](https://www.youtube.com/watch?v=AMptW7Ij7CI)
+**Listen** - [Grimes - Oblivion - YouTube](https://www.youtube.com/watch?v=JtH68PJIQLE)
+
+---
+---
+
+# #18 Deer Hunter - “Helicopter” (2010)
+
+**Album** - Halycon Digest
+
+**Genre** - Indie Rock, Neo-Psychedelia
+Dream Pop, Post-Punk Revival
+
+**Vibe Descriptors** - melancholic, lonely, bittersweet, sad, psychedelic, male vocals, melodic, ethereal, depressive, atmospheric, alienation, death, longing, lush
+
+**Kado’s Notes** - The singer captures weariness in his voice so well, like he has lived 150 years and is singing about years of weight he’s carried. Love the simple psychedelic instrumentals. Amazing Song!!
+
+**Honorable Mentions** - Desire Lines
+
+**Listen** - [Deerhunter - Desire Lines - YouTube](https://www.youtube.com/watch?v=1mBSOtdOjoc)
+
+---
+---
+
+# #17 Spoon - “Do You” (2014)
+
+**Album** - They Want My Soul
+
+**Genre** - Indie Rock, Indie Pop
+
+**Vibe Descriptors** - energetic, male vocals, melodic, melancholic, rhythmic, bittersweet, urban, quirky
+
+**Kado’s Take** - lyrically it is fairly simple and repetitive but SO catchy, got me dancing and blaring out the lyrics. DOOoooOO YOU Do YOUUU
+
+**Honorable Mention** - Inside out
+
+**Listen** - [SPOON - “Do You” - YouTube](https://www.youtube.com/watch?v=bZNyg6Qc_os)
 
 ---
 ---
