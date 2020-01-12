@@ -1,5 +1,5 @@
 ---
-title: Songs from 2010's 🎵
+title: Songs from 2010s 🎵
 date: 2020-01-12
 published: true
 tags: ['Music']
@@ -229,7 +229,7 @@ Bubblegum Bass, Glitch Pop
 
 **Honorable Mentions** - Hunnybee, So Good At Being in Trouble, Multi-Love, Swim and Sleep (Like a Shark),  American Guilt
 
-**Listen** - [Unknown Mortal Orchestra -  Ffunny Ffrends (OFFICIAL) - YouTube](https://www.youtube.com/watch?v=c-36lCKovBg)
+**Listen** - [Unknown Mortal Orchestra -  Multi-love (OFFICIAL) - YouTube](https://www.youtube.com/watch?v=bEtDVy55shI)
 
 ---
 ---
@@ -264,7 +264,7 @@ Dream Pop, Post-Punk Revival
 
 **Honorable Mentions** - Desire Lines
 
-**Listen** - [Deerhunter - Desire Lines - YouTube](https://www.youtube.com/watch?v=1mBSOtdOjoc)
+**Listen** - [Deerhunter - Helicopter - YouTube](https://www.youtube.com/watch?v=G5RzpPrOd-4)
 
 ---
 ---
@@ -343,8 +343,7 @@ Dream Pop, Post-Punk Revival
 
 **Honorable Mention** - Everyday, Andromeda
 
-**Listen** - [WEYES BLOOD — EVERYDAY  (in 4k) - YouTube]
-(https://www.youtube.com/watch?v=AJ-BFlTo5ag)
+**Listen** - [WEYES BLOOD — Movies - YouTube](https://www.youtube.com/watch?v=RFtRq6t3jOo)
 
 ---
 ---
@@ -506,7 +505,7 @@ Dream Pop, Post-Punk Revival
 
 **Honorable mentions** - Drunk Drivers/Killer Whales, Fill in the blank, Beach life-in-death
 
-**Listen** - https://www.youtube.com/watch?v=NvsQPCbgJOA
+**Listen** - [Bodys - YouTube](https://www.youtube.com/watch?v=NvsQPCbgJOA)
 
 ---
 ---
