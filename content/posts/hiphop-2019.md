@@ -1,6 +1,6 @@
 ---
 title: Top 20 Hiphop Artist of the 2010s
-date: 2020-03-06s
+date: 2020-03-06
 published: true
 tags: [Music]
 description: I took a look back at the 2010s and meticulously handpicked picked, my favorite, Hiphop Artist 🎵
@@ -74,7 +74,7 @@ description: I took a look back at the 2010s and meticulously handpicked picked,
 - S.D.S
 - 100 Grandkids
 - Watching Movies
-
+`
 ---
 ---
 
