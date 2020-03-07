@@ -165,7 +165,7 @@ description: I took a look back at the 2010s and meticulously handpicked picked,
 ---
 ---
 
-# #12 Kendick Lamar
+# #12 Kendrick Lamar
 [![Kendrick Lamar - Youtube](https://lh3.googleusercontent.com/GYQCFncdgyVCkrkpW-TLNYLa_ew_hILZko3nm8FnvhbQ5Fxv9VghHUm0Pe1aFUP0JWUH7gW-XAjYvX8Zr1VFEYgcmtcm7kypKk_VIMFqU6OnfLhfjjLjrtGCrlZqYEODVoqZj0LEhPI=w2400)](https://www.youtube.com/watch?v=ox7RsX1Ee34)
 
 **Genre** West Coast Hip Hop, Conscious Hip Hop, Jazz Rap
